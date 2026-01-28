@@ -54,3 +54,4 @@ This project uses [faker](https://github.com/faker-js/faker) to generate placeho
 - Editing `Company.ts` to modify company data and behavior
 - Editing `User.ts` to modify user data and behavior
 - Updating the coordinates and properties to suit your needs
+- Replace `Company.ts` and `User.ts` with your own custom classes for full control
